@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuoridorDopkaHaliatin", "QuoridorDopkaHaliatin\QuoridorDopkaHaliatin.csproj", "{F5A2769A-62F8-493E-BC30-334BACF74C2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{F79DEAD2-2802-4D46-9EE6-0B337A57A794}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F5A2769A-62F8-493E-BC30-334BACF74C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5A2769A-62F8-493E-BC30-334BACF74C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5A2769A-62F8-493E-BC30-334BACF74C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79DEAD2-2802-4D46-9EE6-0B337A57A794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79DEAD2-2802-4D46-9EE6-0B337A57A794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79DEAD2-2802-4D46-9EE6-0B337A57A794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79DEAD2-2802-4D46-9EE6-0B337A57A794}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
